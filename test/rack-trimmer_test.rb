@@ -20,7 +20,7 @@ class MyApp
   def iter h, &b
     h.each do |k, v|
       something(k, &b)
-      something(v, &b)
+      #something(v, &b)
     end
   end
 
