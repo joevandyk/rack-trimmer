@@ -1,0 +1,1 @@
+Strips whitespaces from params

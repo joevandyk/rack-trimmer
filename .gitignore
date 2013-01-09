@@ -1,0 +1,4 @@
+.DS_Store
+Gemfile.lock
+examples/railsapp/log/*.log
+.bundle/
